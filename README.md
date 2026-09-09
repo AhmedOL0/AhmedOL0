@@ -4,7 +4,7 @@
 
 # Ahmed Ouarrali
 
-**Full-Stack Software Engineer — Spring Boot · Next.js · React Native**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&duration=3500&pause=800&color=C4A882&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Spring+Boot+%E2%80%A2+Next.js+%E2%80%A2+React+Native;APIs%2C+payments+%26+AI-powered+products;Based+in+Agadir%2C+Morocco)](https://git.io/typing-svg)
 
 5th-year Software Engineering student @ ENSIASD Taroudant. I build complete products: API, web, mobile and the infrastructure that ships them.
 
@@ -29,6 +29,8 @@ My areas: backend business modules (`orders`, `products`, `payments`, `auth`, `g
 ---
 
 ## Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,reactnative,postgres,redis,docker,gcp,terraform,git,githubactions,figma&theme=light)](https://skillicons.dev)
 
 | Area | Tools |
 |------|-------|
