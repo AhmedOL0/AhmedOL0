@@ -4,11 +4,11 @@
 
 # Ahmed Ouarrali
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&duration=3500&pause=800&color=C4A882&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Spring+Boot+%E2%80%A2+Next.js+%E2%80%A2+React+Native;APIs%2C+payments+%26+AI-powered+products;Based+in+Agadir%2C+Morocco)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&duration=3500&pause=800&color=C4A882&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Spring+Boot+%E2%80%A2+Next.js+%E2%80%A2+React+Native;APIs%2C+payments+%26+AI-powered+products)](https://git.io/typing-svg)
 
 5th-year Software Engineering student @ ENSIASD Taroudant. I build complete products: API, web, mobile and the infrastructure that ships them.
 
-Agadir, Morocco · ahmedouarrali12@gmail.com
+ahmedouarrali12@gmail.com
 
 </div>
 
