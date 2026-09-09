@@ -1,60 +1,61 @@
 <div align="center">
 
-<!-- Bannière : remplace ce commentaire par ton image (1600x400 conseillée) -->
+# Hi, I'm Ahmed Ouarrali
 
-# Ahmed Ouarrali
+*Full-Stack Software Engineer · ENSIASD Taroudant · OdemLab platform (team of 4)*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&duration=3500&pause=800&color=C4A882&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Spring+Boot+%E2%80%A2+Next.js+%E2%80%A2+React+Native;APIs%2C+payments+%26+AI-powered+products)](https://git.io/typing-svg)
-
-5th-year Software Engineering student @ ENSIASD Taroudant. I build complete products: API, web, mobile and the infrastructure that ships them.
-
-ahmedouarrali12@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--ouarrali-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-ouarrali)
+[![Email](https://img.shields.io/badge/Email-ahmedouarrali12@gmail.com-C4A882?style=flat&logo=gmail&logoColor=white)](mailto:ahmedouarrali12@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/AhmedOL0?style=flat&logo=github)](https://github.com/AhmedOL0)
+![Profile views](https://komarev.com/ghpvc/?username=AhmedOL0&color=C4A882&style=flat)
 
 </div>
 
 ---
 
-## Featured project — OdemLab *(private repository — demo on request)*
+## Technical Stack
 
-AI-augmented skincare e-commerce platform. Spring Boot REST API, Next.js storefront and back-office, React Native mobile app, PostgreSQL + Redis, Docker, GCP. Built in a team of four.
+### Programming Languages
 
-- JWT auth (short-lived access + rotating refresh), AES-256-GCM column encryption, per-route rate limiting
-- Stripe + CMI (3-D Secure) + cash-on-delivery with OTP; idempotent orders
-- Gemini skin analysis (six calibrated scores) + conversational agent, both behind circuit breakers
-- Trilingual FR / EN / AR with full RTL support
-- 124 versioned Flyway migrations; contract-tested API (OpenAPI served, TypeScript types generated); Prometheus/Grafana observability
+[![Languages](https://skillicons.dev/icons?i=java,ts,js,py,php,dart,c,cpp&theme=dark)](https://skillicons.dev)
 
-My areas: backend business modules (`orders`, `products`, `payments`, `auth`, `gdpr`), web storefront and admin, i18n/RTL, transactional integrity (server-side pricing, order state machine, idempotence).
+### Frontend & Mobile Development
 
----
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,bootstrap,figma,vite&theme=dark)](https://skillicons.dev)
 
-## Stack
+### Backend & Databases
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,reactnative,postgres,redis,docker,gcp,terraform,git,githubactions,figma&theme=light)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=spring,laravel,nodejs,flask,hibernate,postgres,mysql,redis,sqlite,firebase&theme=dark)](https://skillicons.dev)
 
-| Area | Tools |
-|------|-------|
-| Backend | Java 21 · Spring Boot · JPA/Hibernate · Flyway · JJWT |
-| Frontend / Mobile | TypeScript · React · Next.js · React Native (Expo) · Tailwind CSS |
-| Data | PostgreSQL · Redis · pg_trgm full-text search |
-| DevOps | Docker Compose · GitHub Actions · Terraform · Google Cloud Run · Prometheus/Grafana |
-| AI / Payments | Gemini multimodal · Stripe · CMI 3-D Secure |
+### DevOps & Cloud
 
----
+[![DevOps](https://skillicons.dev/icons?i=docker,gcp,terraform,githubactions,git,linux,nginx,postman&theme=dark)](https://skillicons.dev)
 
-## Contributions
+### Testing & Quality
 
-![Contribution graph animation](https://github.com/AhmedOL0/AhmedOL0/blob/output/github-contribution-grid-snake.svg)
+[![Testing](https://skillicons.dev/icons?i=selenium,jest,cypress&theme=dark)](https://skillicons.dev)
+
+### Embedded & IoT
+
+[![IoT](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
 
 ---
 
-## Contact
+## GitHub Analytics
 
-- Email: ahmedouarrali12@gmail.com
-- Open to internships and junior full-stack roles — backend-leaning, product-minded.
+<div align="center">
 
-<!-- LinkedIn : ajoute ton URL ici quand tu veux -->
-<!-- - LinkedIn: [ahmed-ouarrali](https://www.linkedin.com/in/ahmed-ouarrali) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOL0&layout=compact&theme=dark&hide_border=true)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedOL0&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-> *Une règle appliquée à un endroit et absente à côté ne se signale pas.* Je préfère les contraintes exécutables (tests, CI gates, migrations versionnées) aux conventions.
+</div>
+
+---
+
+<div align="center">
+
+Currently building **OdemLab** — AI-augmented skincare e-commerce (Spring Boot · Next.js · React Native). Private repo, demo on request.
+
+*Backend-leaning, product-minded — executable guarantees over conventions.*
+
 </div>
