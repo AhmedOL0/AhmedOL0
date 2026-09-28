@@ -45,8 +45,8 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AhmedOL0&layout=compact&theme=dark&hide_border=true)
-![Ahmed's GitHub stats](https://github-readme-stats.shion.dev/api?username=AhmedOL0&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](./.github/profile/top-langs.svg)
+![Ahmed's GitHub stats](./.github/profile/stats.svg)
 
 </div>
 
