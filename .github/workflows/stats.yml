@@ -4,10 +4,11 @@
 # public data: no Java, no private commits, 0 PRs - verified against the API.
 # This is the deployment option recommended by anuraghazra/github-readme-stats:
 #   https://github.com/marketplace/actions/github-readme-stats-action
-# Until STATS_TOKEN is added, the cards fall back to the default GITHUB_TOKEN
-# (public-only numbers) instead of failing; with a classic PAT (repo + read:user)
-# they include private work. If the token expires, generation fails and the last
-# good SVGs simply stay in place.
+#
+# The first two steps FAIL LOUDLY when STATS_TOKEN is missing or cannot see
+# private repositories (wrong scopes) - a silent fallback to the default token
+# was exactly how the first runs produced public-only cards while showing
+# green. When generation fails later (expired token), the last good SVGs stay.
 name: Update README cards
 
 on:
@@ -28,13 +29,40 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      - name: Verify STATS_TOKEN sees private repositories
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: |
+          if [ -z "$STATS_TOKEN" ]; then
+            echo "::error::STATS_TOKEN secret is missing - cards would be public-only. Create a classic PAT with the repo + read:user scopes and add it as the STATS_TOKEN repository secret (Settings > Secrets and variables > Actions)."
+            echo "**STATS_TOKEN: MISSING** - cards would stay public-only." >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+          # Must be an array: a rate-limit/auth error JSON would otherwise read as a count.
+          vis=$(curl -s -H "Authorization: Bearer $STATS_TOKEN" "https://api.github.com/user/repos?visibility=private&per_page=100" | jq -r 'if type=="array" then (length|tostring) else "ERR" end')
+          if [ "$vis" = "ERR" ] || [ "$vis" = "0" ] || [ -z "$vis" ]; then
+            echo "::error::STATS_TOKEN cannot list any private repository. Use a classic PAT with repo + read:user, or a fine-grained token with All repositories selected and Contents/Metadata/Pull requests/Issues read access."
+            echo "**STATS_TOKEN: present but sees 0 private repos (scope problem).**" >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+          # The language card reads each repo's languages endpoint (Contents: read).
+          sample=$(curl -s -H "Authorization: Bearer $STATS_TOKEN" "https://api.github.com/user/repos?visibility=private&per_page=100" | jq -r '.[0].full_name // empty')
+          code=$(curl -s -o /dev/null -w '%{http_code}' -H "Authorization: Bearer $STATS_TOKEN" "https://api.github.com/repos/$sample/languages")
+          if [ "$code" != "200" ]; then
+            echo "::error::STATS_TOKEN cannot read languages of $sample (HTTP $code) - the top languages card would still miss private repos. Grant Contents: read (fine-grained) or the repo scope (classic)."
+            echo "**STATS_TOKEN: languages read FAILED (HTTP $code) for $sample.**" >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+          echo "**STATS_TOKEN: OK - sees $vis private repos, languages readable ($sample).**" >> "$GITHUB_STEP_SUMMARY"
+          echo "private repos visible: $vis, sample languages repo: $sample (HTTP $code)"
+
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: 'username=${{ github.repository_owner }}&show_icons=true&theme=dark&hide_border=true&count_private=true'
           path: .github/profile/stats.svg
-          token: ${{ secrets.STATS_TOKEN || github.token }}
+          token: ${{ secrets.STATS_TOKEN }}
           fail_on_error: true
 
       - name: Generate top languages card
@@ -43,7 +71,7 @@ jobs:
           card: top-langs
           options: 'username=${{ github.repository_owner }}&layout=compact&theme=dark&hide_border=true'
           path: .github/profile/top-langs.svg
-          token: ${{ secrets.STATS_TOKEN || github.token }}
+          token: ${{ secrets.STATS_TOKEN }}
           fail_on_error: true
 
       - name: Commit cards
