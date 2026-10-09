@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">AhmedOL0&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 6, Total Commits  (last year) : 2063, Total PRs: 3, Total Issues: 0, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 6, Total Commits  (last year) : 2097, Total PRs: 6, Total Issues: 0, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 193.20820163692684;
+        stroke-dashoffset: 190.74059396445622;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >3</text>
+      >6</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
