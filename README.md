@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1F3B57,100:047857&height=170&section=header&text=Ahmed%20Ouarrali&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=60&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3B57,100:047857&height=170&section=header&text=Ahmed%20Ouarrali&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=60&descSize=18" width="100%" alt="Ahmed Ouarrali — Full-Stack Software Engineer">
 
 <div align="center">
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C4A882&center=true&vCenter=true&width=520&lines=Full-Stack+Software+Engineer;Spring+Boot+%C2%B7+Angular+%C2%B7+PostgreSQL;AI+copilot+%C2%B7+FR%2FEN+%C2%B7+JWT)](https://github.com/AhmedOL0)
+[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=C4A882&center=true&vCenter=true&width=560&lines=Full-Stack+Software+Engineer;Spring+Boot+%C2%B7+Angular+%C2%B7+PostgreSQL;AI+copilot+%C2%B7+FR%2FEN+%C2%B7+JWT)](https://github.com/AhmedOL0)
 
 
 *ENSIASD Taroudant · OdemLab platform (team of 4)*
@@ -20,6 +20,19 @@
 
 
 </div>
+
+
+---
+
+
+### About me
+
+
+I build full-stack apps with executable guarantees — typed contracts, tests that fail the build, pipelines that run the suite.
+
+
+- 🔭 Currently shipping **[ProcureFlow](https://github.com/AhmedOL0/ProcureFlow)** — multi-tenant procurement SaaS (Spring Boot · Angular)
+- 🎓 Final year @ ENSIASD — open to a PFE internship, Feb–Jun 2027
 
 
 ---
@@ -59,11 +72,11 @@
 
 <div align="center">
 
-[![JUnit 5](https://img.shields.io/badge/JUnit_5-1F3B57?style=flat&logo=junit5&logoColor=white)](https://junit.org/junit5/)
-[![Pytest](https://img.shields.io/badge/Pytest-1F3B57?style=flat&logo=pytest&logoColor=white)](https://docs.pytest.org)
-[![Testing Library](https://img.shields.io/badge/Testing_Library-1F3B57?style=flat&logo=testinglibrary&logoColor=white)](https://testing-library.com)
-[![SonarQube](https://img.shields.io/badge/SonarQube-1F3B57?style=flat&logo=sonarqubecloud&logoColor=white)](https://sonarcloud.io)
-[![ESLint](https://img.shields.io/badge/ESLint-1F3B57?style=flat&logo=eslint&logoColor=white)](https://eslint.org)
+[![JUnit 5](https://img.shields.io/badge/JUnit_5-1F3B57?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![Pytest](https://img.shields.io/badge/Pytest-1F3B57?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org)
+[![Testing Library](https://img.shields.io/badge/Testing_Library-1F3B57?style=for-the-badge&logo=testinglibrary&logoColor=white)](https://testing-library.com)
+[![SonarQube](https://img.shields.io/badge/SonarQube-1F3B57?style=for-the-badge&logo=sonarqubecloud&logoColor=white)](https://sonarcloud.io)
+[![ESLint](https://img.shields.io/badge/ESLint-1F3B57?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org)
 
 <sub>Mockito · Testcontainers · Playwright · JaCoCo · ArchUnit · SpotBugs · axe-core</sub>
 </div>
@@ -81,11 +94,28 @@
 ## Featured
 
 
-[![ProcureFlow](https://github-readme-stats.vercel.app/api/pin/?username=AhmedOL0&repo=ProcureFlow&theme=dark&hide_border=true)](https://github.com/AhmedOL0/ProcureFlow)
+<table>
+<tr>
+<td width="50%" valign="top">
 
 
-- **[ProcureFlow](https://github.com/AhmedOL0/ProcureFlow)** — multi-tenant B2B procurement SaaS (Spring Boot · Angular · PostgreSQL · MongoDB): JWT rotation, server-side totals, FR/EN interface, AI copilot.
-- **OdemLab** — AI-augmented skincare e-commerce (Spring Boot · Next.js · React Native). Private repo, demo on request.
+**[ProcureFlow](https://github.com/AhmedOL0/ProcureFlow)**<br>
+<sub>Multi-tenant B2B procurement SaaS: JWT rotation, server-side totals, FR/EN interface, AI copilot.</sub><br>
+<sub><code>Spring Boot</code> <code>Angular</code> <code>PostgreSQL</code> <code>MongoDB</code></sub>
+
+
+</td>
+<td width="50%" valign="top">
+
+
+**OdemLab**<br>
+<sub>AI-augmented skincare e-commerce: order pipeline, payments, mobile app. Team of four. Private repo, demo on request.</sub><br>
+<sub><code>Spring Boot</code> <code>Next.js</code> <code>React Native</code></sub>
+
+
+</td>
+</tr>
+</table>
 
 
 ---
@@ -116,3 +146,6 @@
 
 
 </div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:047857,100:1F3B57&height=100&section=footer" width="100%" alt="">
