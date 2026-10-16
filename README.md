@@ -57,6 +57,8 @@
 
 [![Testing](https://skillicons.dev/icons?i=selenium,vitest,cypress,jest&theme=dark)](https://skillicons.dev)
 
+<div align="center"><sub>JUnit 5 · Mockito · Testcontainers · Testing Library · Playwright · Pytest · SonarQube · ESLint · JaCoCo · ArchUnit · SpotBugs · axe-core</sub></div>
+
 
 ### Embedded & IoT
 
