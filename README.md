@@ -115,14 +115,38 @@ I build full-stack applications backed by executable guarantees: typed contracts
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+
+**Smart Campus Companion**<br>
+<sub>Indoor AR campus navigation with real-time room availability.</sub><br>
+<sub><code>Flutter</code> <code>ARCore</code> <code>Firebase</code></sub>
+
+
+</td>
+<td width="50%" valign="top">
+
+
+**FitTrack**<br>
+<sub>Training tracking with AI-assisted sessions and token auth.</sub><br>
+<sub><code>Spring Boot</code> <code>React</code> <code>Docker</code></sub>
+
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+
+**SmartSummarizer**<br>
+<sub>Transformers summarization with quiz and mind-map generation from course PDFs.</sub><br>
+<sub><code>Python</code> <code>PyTorch</code> <code>Hugging Face</code></sub>
+
+
+</td>
+</tr>
 </table>
-
-
-Also built:
-
-- **Smart Campus Companion** — indoor AR campus navigation with real-time room availability. `Flutter` `ARCore` `Firebase`
-- **FitTrack** — training tracking with AI-assisted sessions and token auth. `Spring Boot` `React` `Docker`
-- **SmartSummarizer** — Transformers summarization with quiz and mind-map generation from course PDFs. `Python` `PyTorch` `Hugging Face`
 
 
 ---
