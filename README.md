@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C4A882&center=true&vCenter=true&width=520&lines=Full-Stack+Software+Engineer;Spring+Boot+%C2%B7+Angular+%C2%B7+PostgreSQL)](https://github.com/AhmedOL0)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C4A882&center=true&vCenter=true&width=520&lines=Full-Stack+Software+Engineer;Spring+Boot+%C2%B7+Angular+%C2%B7+PostgreSQL;AI+copilot+%C2%B7+FR%2FEN+%C2%B7+JWT)](https://github.com/AhmedOL0)
 
 
 *ENSIASD Taroudant · OdemLab platform (team of 4)*
@@ -13,6 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--ouarrali-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-ouarrali)
 [![Email](https://img.shields.io/badge/Email-ahmedouarrali12@gmail.com-C4A882?style=flat&logo=gmail&logoColor=white)](mailto:ahmedouarrali12@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/AhmedOL0?style=flat&logo=github)](https://github.com/AhmedOL0)
+[![PFE](https://img.shields.io/badge/PFE-Feb%E2%80%93Jun%202027-047857?style=flat)](mailto:ahmedouarrali12@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=AhmedOL0&color=C4A882&style=flat)
 
 
