@@ -1,9 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1F3B57,100:047857&height=170&section=header&text=Ahmed%20Ouarrali&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=60&descSize=18)
+
 <div align="center">
 
-# Hi, I'm Ahmed Ouarrali
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C4A882&center=true&vCenter=true&width=520&lines=Full-Stack+Software+Engineer;Spring+Boot+%C2%B7+Angular+%C2%B7+PostgreSQL)](https://github.com/AhmedOL0)
 
 
-*Full-Stack Software Engineer · ENSIASD Taroudant · OdemLab platform (team of 4)*
+*ENSIASD Taroudant · OdemLab platform (team of 4)*
 
 *Final-year engineering student · open to an end-of-studies internship (PFE, Feb – Jun 2027)*
 
@@ -65,6 +67,9 @@
 ## Featured
 
 
+[![ProcureFlow](https://github-readme-stats.vercel.app/api/pin/?username=AhmedOL0&repo=ProcureFlow&theme=dark&hide_border=true)](https://github.com/AhmedOL0/ProcureFlow)
+
+
 - **[ProcureFlow](https://github.com/AhmedOL0/ProcureFlow)** — multi-tenant B2B procurement SaaS (Spring Boot · Angular · PostgreSQL · MongoDB): JWT rotation, server-side totals, FR/EN interface, AI copilot.
 - **OdemLab** — AI-augmented skincare e-commerce (Spring Boot · Next.js · React Native). Private repo, demo on request.
 
@@ -80,6 +85,8 @@
 
 ![Top Languages](./.github/profile/top-langs.svg)
 ![Ahmed's GitHub stats](./.github/profile/stats.svg)
+
+<img src="https://raw.githubusercontent.com/AhmedOL0/AhmedOL0/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 
 
 </div>
