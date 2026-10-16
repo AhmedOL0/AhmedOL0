@@ -57,7 +57,16 @@
 
 [![Testing](https://skillicons.dev/icons?i=selenium,vitest,cypress,jest&theme=dark)](https://skillicons.dev)
 
-<div align="center"><sub>JUnit 5 · Mockito · Testcontainers · Testing Library · Playwright · Pytest · SonarQube · ESLint · JaCoCo · ArchUnit · SpotBugs · axe-core</sub></div>
+<div align="center">
+
+[![JUnit 5](https://img.shields.io/badge/JUnit_5-1F3B57?style=flat&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![Pytest](https://img.shields.io/badge/Pytest-1F3B57?style=flat&logo=pytest&logoColor=white)](https://docs.pytest.org)
+[![Testing Library](https://img.shields.io/badge/Testing_Library-1F3B57?style=flat&logo=testinglibrary&logoColor=white)](https://testing-library.com)
+[![SonarQube](https://img.shields.io/badge/SonarQube-1F3B57?style=flat&logo=sonarqubecloud&logoColor=white)](https://sonarcloud.io)
+[![ESLint](https://img.shields.io/badge/ESLint-1F3B57?style=flat&logo=eslint&logoColor=white)](https://eslint.org)
+
+<sub>Mockito · Testcontainers · Playwright · JaCoCo · ArchUnit · SpotBugs · axe-core</sub>
+</div>
 
 
 ### Embedded & IoT
