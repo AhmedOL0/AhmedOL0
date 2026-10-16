@@ -14,6 +14,7 @@
 [![Email](https://img.shields.io/badge/Email-ahmedouarrali12@gmail.com-C4A882?style=flat&logo=gmail&logoColor=white)](mailto:ahmedouarrali12@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/AhmedOL0?style=flat&logo=github)](https://github.com/AhmedOL0)
 [![PFE](https://img.shields.io/badge/PFE-Feb%E2%80%93Jun%202027-047857?style=flat)](mailto:ahmedouarrali12@gmail.com)
+[![CV](https://img.shields.io/badge/CV-download-C4A882?style=flat)](./Ahmed_Ouarrali_CV.pdf)
 ![Profile views](https://komarev.com/ghpvc/?username=AhmedOL0&color=C4A882&style=flat)
 
 
