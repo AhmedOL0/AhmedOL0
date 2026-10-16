@@ -31,8 +31,8 @@
 I build full-stack applications backed by executable guarantees: typed contracts, tests that fail the build, and pipelines that run the suite.
 
 
-- 🔭 Currently shipping **[ProcureFlow](https://github.com/AhmedOL0/ProcureFlow)**, a multi-tenant procurement SaaS (Spring Boot · Angular)
-- 🎓 Final year @ ENSIASD, open to a PFE internship (Feb–Jun 2027)
+- Currently shipping **[ProcureFlow](https://github.com/AhmedOL0/ProcureFlow)**, a multi-tenant procurement SaaS (Spring Boot · Angular)
+- Final year @ ENSIASD, open to a PFE internship (Feb–Jun 2027)
 
 
 ---
