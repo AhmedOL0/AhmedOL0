@@ -118,6 +118,13 @@ I build full-stack applications backed by executable guarantees: typed contracts
 </table>
 
 
+Also built:
+
+- **Smart Campus Companion** — indoor AR campus navigation with real-time room availability. `Flutter` `ARCore` `Firebase`
+- **FitTrack** — training tracking with AI-assisted sessions and token auth. `Spring Boot` `React` `Docker`
+- **SmartSummarizer** — Transformers summarization with quiz and mind-map generation from course PDFs. `Python` `PyTorch` `Hugging Face`
+
+
 ---
 
 
