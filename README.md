@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3B57,100:047857&height=170&section=header&text=Ahmed%20Ouarrali&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=60&descSize=18" width="100%" alt="Ahmed Ouarrali — Full-Stack Software Engineer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3B57,100:047857&height=170&section=header&text=Ahmed%20Ouarrali&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=60&descSize=18" width="100%" alt="Ahmed Ouarrali, Full-Stack Software Engineer">
 
 <div align="center">
 
