@@ -26,19 +26,19 @@
 ### Programming Languages
 
 
-[![Languages](https://skillicons.dev/icons?i=java,ts,js,py,php,dart,c&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,ts,js,py,php,dart,c,cpp&theme=dark)](https://skillicons.dev)
 
 
 ### Frontend & Mobile Development
 
 
-[![Frontend](https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,flutter,bootstrap,figma,vite&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,flutter,bootstrap,figma,vite,qt&theme=dark)](https://skillicons.dev)
 
 
 ### Backend & Databases
 
 
-[![Backend](https://skillicons.dev/icons?i=spring,laravel,nodejs,flask,hibernate,postgres,mysql,mongodb,redis,firebase&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=spring,laravel,nodejs,flask,hibernate,postgres,mysql,mongodb,redis,sqlite,firebase&theme=dark)](https://skillicons.dev)
 
 
 ### DevOps & Cloud
