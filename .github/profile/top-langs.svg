@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="106.64"
+          width="106.67"
           height="8"
           fill="#3178c6"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="106.64"
+          x="106.67"
           y="0"
-          width="74.72"
+          width="74.71"
           height="8"
           fill="#b07219"
         />
@@ -156,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="181.36"
+          x="181.38"
           y="0"
-          width="35.73"
+          width="35.72"
           height="8"
           fill="#f1e05a"
         />
@@ -166,7 +166,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="217.09"
+          x="217.1"
           y="0"
           width="14.17"
           height="8"
@@ -176,9 +176,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="231.26"
+          x="231.26999999999998"
           y="0"
-          width="12.8"
+          width="12.79"
           height="8"
           fill="#f7523f"
         />
@@ -186,9 +186,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="244.06"
+          x="244.05999999999997"
           y="0"
-          width="15.95"
+          width="15.940000000000001"
           height="8"
           fill="#4F5D95"
         />
@@ -199,14 +199,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 42.65%
+        TypeScript 42.67%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 29.89%
+        Java 29.88%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
