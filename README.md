@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=C4A882&center=true&vCenter=true&width=560&lines=Full-Stack+Software+Engineer;Spring+Boot+%C2%B7+Angular+%C2%B7+PostgreSQL;AI+copilot+%C2%B7+FR%2FEN+%C2%B7+JWT)](https://github.com/AhmedOL0)
+[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=C4A882&center=true&vCenter=true&width=560&lines=Full-Stack+Software+Engineer;Spring+Boot+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+PostgreSQL;AI+copilot+%C2%B7+FR%2FEN+%C2%B7+JWT)](https://github.com/AhmedOL0)
 
 
 *ENSIASD Taroudant · OdemLab platform (team of 4)*
